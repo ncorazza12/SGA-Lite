@@ -1,0 +1,8 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+SQLAlchemy==2.0.19
+pydantic==1.10.12
+click==8.1.7
+pytest==7.4.2
+#mysqlclient==2.2.0   # só necessário se for usar MariaDB locally (RDS usa credenciais)
+python-dotenv==1.0.0
