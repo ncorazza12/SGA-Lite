@@ -12,8 +12,11 @@ Projeto simples de um Sistema de Gestão Acadêmica (SGA Lite) com:
 - pip
 
 ## Instalação
+
 1. Crie e ative um virtualenv:
 ```bash
 python -m venv .venv
-source .venv/bin/activate   # Linux/Mac
-.venv\Scripts\activate      # Windows
+# Linux/Mac
+source .venv/bin/activate
+# Windows
+.venv\Scripts\activate
